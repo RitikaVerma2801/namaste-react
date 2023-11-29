@@ -5,7 +5,7 @@
 }
 
 .logo {
-  width: 150px;
+  width: 120px;
 }
 
 .nav-items {
@@ -15,7 +15,7 @@
 .nav-items > ul {
   display: flex;
   list-style-type: none;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .nav-items > ul > li {
@@ -27,12 +27,12 @@
 }
 
 .body {
-  padding: 20px;
-  margin: 0px 150px;
+  margin: 0px 120px;
 }
 
-.search {
-  padding: 20px;
+.filter-btn {
+  margin: 20px;
+  cursor: pointer;
 }
 
 .res-container {
